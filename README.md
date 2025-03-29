@@ -1,4 +1,3 @@
-# (Hello world) 
 # 🚀 Rajan S/O Vijay
 
 🎓 **B.Tech CSE | AI | ML | Cloud | Cybersecurity**  
