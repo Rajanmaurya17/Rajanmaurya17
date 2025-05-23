@@ -26,31 +26,8 @@ Aspiring to work at **Google, Microsoft, or IBM**, while also growing my own **A
 - **AI & ML:** Deep Learning, NLP, OpenAI, DeepSeek  
 - **Cybersecurity:** Penetration Testing, Network Security, Risk Assessment  
 - **Databases:** SQL, SQLite, MySQL  
-- **Cloud & DevOps:** AWS, GCP, Git, GitHub  
-
----
-
-## 🏗️ Projects
-🔹 **AI-Powered Resume Analyzer**  
-📌 *Python, Flask, OpenAI, SQL*  
-🚀 Built an AI-driven resume screening tool with **90%+ ATS accuracy**.  
-
-🔹 **AI Chatbot using DeepSeek**  
-📌 *Python, NLP, DeepSeek Framework*  
-🚀 Developed a chatbot with **context-aware responses**, optimized for speed.  
-
----
-
-## 📜 Certifications
-- 📍 **CS50x (Harvard)**
-- 📍 **CS101.1x (IIT Bombay - XSeries)**
-- 📍 **Data Structures & Algorithms Specialization (UC San Diego)**
-- 📍 **Stanford ML, Deep Learning, NLP**
-- 📍 **AWS Cloud Certification**
-- 📍 **Google Cybersecurity**
-- 📍 **Python 101 for Data Science (IBM)**
-- 📍 **C# Certified (Microsoft)**
-
+- **Cloud & DevOps:** AWS, GCP, Git, GitHub
+  
 ---
 
 ## 📬 Let's Connect!
